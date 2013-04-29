@@ -40,7 +40,7 @@ void pbl_main(void *params);
 
 PBL_APP_INFO(MY_UUID,
              "Stopwatch", "Bit Hangar",
-             1, 0, /* App version */
+             1, 1, /* App version */
              RESOURCE_ID_MENU_ICON,
              0);
 
